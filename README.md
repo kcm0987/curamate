@@ -2,14 +2,8 @@ GitHub Copilot Chat Assistant
 
 # Curamate
 
-![Demo](./demo.mp4)
+![Demo](https://github.com/kcm0987/curamate/blob/3fcf2f3c222b03564697b72ed874cdbb3d5a1d9a/Screen%20Recording%202025-04-05%20140936.mov)
 
-
-
-Badges (optional)
-- Build: ![build status](https://img.shields.io/badge/build-unknown-lightgrey)
-- License: ![license](https://img.shields.io/badge/license-PLACEHOLDER-lightgrey)
-- Notebooks: ![notebooks](https://img.shields.io/badge/notebooks-Jupyter-orange)
 
 Table of contents
 - [About](#about)
